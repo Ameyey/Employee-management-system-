@@ -15,4 +15,13 @@ body{
 
 body{
   background-color: #111;
+  color: white;
+}
+
+#tasklist::-webkit-scrollbar{
+ display: none;
+}
+
+#AllTask::-webkit-scrollbar{
+  display: none;
 }
